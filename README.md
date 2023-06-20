@@ -49,7 +49,9 @@
 " width="450px"><br>
 평행주차 단계별 동작 개략도
 
-
+<img src="https://github.com/Imposterblue/Smart-Mobility-Design-Project/assets/83463280/21148809-baee-4b14-a04f-a096dc698a80" alt="평행주차 단계별 동작 개략도
+" width="450px"><br>
+평행주차 수행 동작
 
 
 
