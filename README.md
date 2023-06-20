@@ -2,7 +2,7 @@
 * 2023 1학기 기계정보공학과 '스마트모빌리티설계' 과목 기말프로젝트<br>
 * University of Seoul, Mechanical Information Engineering, Smart Mobility Design Final Project
 -------------
-##  팀 소개
+##  팀 소개 :trophy:
 | 학교 | 학과 | 학번 | 이름 | 역할 |
 |:---:|:---:|:---:|:---:|:---:|
 | 서울시립대 | 기계정보공학과 | 2017430012 | 김영민 | 노드 통합 및 최적화 |
@@ -10,19 +10,19 @@
 
 ------------
 
-#  프로젝트 소개
+#  프로젝트 소개:police_car:
 <details>
   <summary>전체 제어 알고리즘</summary>
   <img src="https://github.com/Imposterblue/Smart-Mobility-Design-Project/assets/83463280/1b71f1a2-f049-4ad8-a33d-ad2ef9956733" alt="Control Algorithm" width="850px"><br>
 </details>
 <details>
   <summary> launch 파일 실행 시 실행되는 노드 및 구조도</summary>
-  <img src="https://github.com/Imposterblue/Smart-Mobility-Design-Project/assets/83463280/1b71f1a2-f049-4ad8-a33d-ad2ef9956733" alt="launch 파일 실행 시 실행되는 노드 및 구조도" width="850px"><br>
+  <img src="https://github.com/Imposterblue/Smart-Mobility-Design-Project/assets/83463280/b64dbc96-fd30-4b54-b6ee-aeb324811f56" alt="launch 파일 실행 시 실행되는 노드 및 구조도" width="850px"><br>
 </details>
 
 ------------------
 
-# 미션별 코스 수행 결과
+# 미션별 코스 수행 결과:bulb:
 ## 1. 차선 인식(Hough 변환, PID 제어)
 <img src="https://github.com/Imposterblue/Smart-Mobility-Design-Project/assets/83463280/6c1f393f-a4cc-4b26-8bb4-b1d3c9d07503" alt="90° 커브 구간을 차선 주행" width="450px"><br>
 90° 커브 구간을 차선 주행
