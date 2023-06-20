@@ -26,11 +26,11 @@
 ## 1. 차선 인식(Hough 변환, PID 제어)
 <img src="https://github.com/Imposterblue/Smart-Mobility-Design-Project/assets/83463280/6c1f393f-a4cc-4b26-8bb4-b1d3c9d07503" alt="90° 커브 구간을 차선 주행" width="450px"><br>
 90° 커브 구간을 차선 주행
-
+<br>
 ## 2. 장애물 회피
 <img src="https://github.com/Imposterblue/Smart-Mobility-Design-Project/assets/83463280/3f7324de-3acf-4fcf-bf6d-0bc76d83ff11" alt="첫번째 장애물을 회피한 뒤 두번째 장애물을 회피하는 모습" width="450px"><br>
 첫번째 장애물을 회피한 뒤 두번째 장애물을 회피하는 모습
-
+<br>
 ## 3. 신호등 인식
 <img src="https://github.com/Imposterblue/Smart-Mobility-Design-Project/assets/83463280/e073903f-a8c5-4777-96a0-fca736322804" alt="횡단보도 인식 개략도
 " width="400px"><br>
@@ -38,17 +38,17 @@
 <img src="https://github.com/Imposterblue/Smart-Mobility-Design-Project/assets/83463280/e8115022-bfd0-49c1-96b8-471defe4da68" alt="횡단보도 인식
 " width="450px"><br>
 횡단보도 인식 (신호등에 따른 주행 제어)
-
+<br>
 # 4. 갈림길
 <img src="https://github.com/Imposterblue/Smart-Mobility-Design-Project/assets/83463280/53ae6223-19f9-423e-bbbc-a3da01838d84" alt="갈림길 선택
 " width="450px"><br>
 신호등에 따른 갈림길 선택
-
+<br>
 # 5. 평행 주차
 <img src="https://github.com/Imposterblue/Smart-Mobility-Design-Project/assets/83463280/880ee5d9-bd89-4b84-b450-2e62839a24c6" alt="평행주차 단계별 동작 개략도
 " width="450px"><br>
 평행주차 단계별 동작 개략도
-
+<br>
 <img src="https://github.com/Imposterblue/Smart-Mobility-Design-Project/assets/83463280/21148809-baee-4b14-a04f-a096dc698a80" alt="평행주차 단계별 동작 개략도
 " width="450px"><br>
 평행주차 수행 동작
