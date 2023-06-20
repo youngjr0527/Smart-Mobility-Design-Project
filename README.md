@@ -37,11 +37,12 @@
 횡단보도 인식 개략도<br>
 <img src="https://github.com/Imposterblue/Smart-Mobility-Design-Project/assets/83463280/e8115022-bfd0-49c1-96b8-471defe4da68" alt="횡단보도 인식
 " width="500px"><br>
-![image]()
-횡단보도 인식 신호등에 따른 주행 제어
+횡단보도 인식 (신호등에 따른 주행 제어)
 
 # 4. 갈림길
-
+<img src="https://github.com/Imposterblue/Smart-Mobility-Design-Project/assets/83463280/53ae6223-19f9-423e-bbbc-a3da01838d84" alt="갈림길 선택
+" width="500px"><br>
+신호등에 따른 갈림길 선택
 
 # 5. 평행 주차
 <img src="https://github.com/Imposterblue/Smart-Mobility-Design-Project/assets/83463280/880ee5d9-bd89-4b84-b450-2e62839a24c6" alt="평행주차 단계별 동작 개략도
